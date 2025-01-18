@@ -1,4 +1,9 @@
 # Enhanced Video Classification and Retrieval System Using HMDB51 Feature Engineering
+## Reports
+The reports for each phase of project can be found here while a brief of each phase's work is present in this file.  
+ - [Phase 1](/Phase%201/Report.pdf) 
+ - [Phase 2](/Phase%202/Report.pdf) 
+ - [Phase 3](/Phase%203/Report.pdf) 
 ## Phase 1
 In the first phase of this project, we focused on developing a comprehensive set of six features to represent video data effectively. These features were extracted using various methods, leveraging pre-trained deep learning models and custom algorithms for spatiotemporal analysis. The detailed breakdown is as follows:
 ### R3D18-Layer3-512
