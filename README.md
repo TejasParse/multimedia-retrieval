@@ -1,5 +1,7 @@
 # Enhanced Video Classification and Retrieval System Using HMDB51 Feature Engineering
-## Reports
+## About
+This project was made under the supervision of [Professor K. Selcuk Candan](https://scholar.google.com/citations?user=keO-0s0AAAAJ&hl=en) as part of course Multimedia and Web Databases where I recieved an A grade.
+
 The reports for each phase of project can be found here while a brief of each phase's work is present in this file.  
  - [Phase 1](/Phase%201/Report.pdf) 
  - [Phase 2](/Phase%202/Report.pdf) 
